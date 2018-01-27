@@ -1,12 +1,16 @@
-# Bootstrap 4 Starter Pack (BETA 4.0.0)
+# loopLAB Social Media Site
 
-Includes complete Bootstrap 4.0.0-beta dev environment with gulp and sass
+Mobile-responsive front end (only) web page for new social media company. [click here](https://jonriddick.github.io/looplab/src/index.html) to see in action!
 
-If you are looking for the alpha6 version [click here](https://github.com/bradtraversy/bs4starter_alpha6)
+## Technologies Used
 
-### Version
-
-1.0.0
+```bash
+Bootstrap
+jquery
+popper.js
+browser-sync
+gulp
+```
 
 ## Install Dependencies
 
